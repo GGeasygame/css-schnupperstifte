@@ -27,3 +27,4 @@ Gebe anschliessend via console.log(variabelName) den Inhalt in der Konsole aus.
 */
 
 //Schreibe deinen Code unterhalb dieser Zeile.
+
